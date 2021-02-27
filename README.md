@@ -1,2 +1,2 @@
 # fast-ai
-Solutions to challenges found in the course, Practical Deep Learning for Coders by fast.ai
+Machine learning code and interesting insights from the course by fast.ai, "Practical Deep Learning for Coders."
